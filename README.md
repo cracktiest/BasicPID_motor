@@ -11,6 +11,7 @@ DEBUG: Current (avr-stub) On-board (avr-stub, simavr)
 PACKAGES:
  - framework-arduino-avr @ 5.1.0
  - toolchain-atmelavr @ 1.70300.191015 (7.3.0)
+   
 RAM:   [==        ]  15.5% (used 317 bytes from 2048 bytes)
 Flash: [==        ]  15.7% (used 5068 bytes from 32256 bytes)
 Building .pio\build\uno\firmware.hex
